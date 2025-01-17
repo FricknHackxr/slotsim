@@ -1,3 +1,3 @@
-# SlotSim
+# slotsim
 
-Eating ass
+Little school project - play slots on your computer.
